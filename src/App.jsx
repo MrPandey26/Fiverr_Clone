@@ -6,7 +6,7 @@ import {
   Outlet
 } from "react-router-dom"
 import Footer from './components/footer/Footer';
-import Navbar from './components/Navbar/Navbar';
+import Navbar from './components/navbar/Navbar';
 import Home from "./pages/home/Home";
 import Orders from './pages/orders/Orders';
 import MyGigs from './pages/myGigs/MyGigs';
